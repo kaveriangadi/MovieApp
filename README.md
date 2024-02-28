@@ -1,15 +1,15 @@
 # Movie Info Application
 
 ## Description
-The Movie Info Application is a web-based platform that allows users to search for detailed information about movies. It integrates with the TMDB (The Movie Database) API to fetch and display movie details, including titles, release dates, posters, overviews, and trailers. The application offers a user-friendly interface with responsive design and the ability to load additional results as the user scrolls.
+The MovieApp Application is a web-based platform that allows users to search for detailed information about movies. It integrates with the TMDB (The Movie Database) API to fetch and display movie details, including titles, release dates, posters, overviews, and trailers. The application offers a user-friendly interface with responsive design and the ability to load additional results as the user scrolls.
 
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository to your local machine: https://github.com/udayakumar21/Movie_Search_App.git
+1. Clone the repository to your local machine: https://github.com/kaveriangadi/MovieApp.git
 
 2. Navigate to the project directory:
-  cd movie-info-app
+  cd MovieApp
 
 3. Open the project in your code editor.
 
